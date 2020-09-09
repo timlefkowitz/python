@@ -1,0 +1,5 @@
+#Dictionary_Literals_constants___Key:value
+jjj = { 'chuck' : 1, 'fred' : 42, 'jan' :100}
+print(jjj)
+ooo = { }
+print(ooo)
