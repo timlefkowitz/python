@@ -124,10 +124,14 @@ def isPalindome(string):
             x = 5
             print('Hello world')
 
+            # we have not invoking the function
+
             def print_lyrics():
                 print("I'm a lumberjack, and I'm okay.")
                 print('I sleep all night and I work all day.')
 
             print('Yo')
+            # now we are invoking the function 
+            print_lyrics() 
             x = x + 2
             print(x) 
