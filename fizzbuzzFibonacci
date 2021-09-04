@@ -56,9 +56,9 @@ while count < nterms:
 
 # Driver Code
 s = "malayalam"
- = isPalindrome(s)
+ xyz = isPalindrome(s)
 
-if ans: 
+if xyz: 
     print("yes")
 else: 
     print("no")
