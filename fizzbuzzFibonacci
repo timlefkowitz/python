@@ -52,6 +52,7 @@ while count < nterms:
 #{}{}{}{}{}{}
 
 # python Palindrome(s): okay, s[] must mean its an array? Looking this up now
+def aBooleanPalindrome
     return s == s[::-1]
 
 # Driver Code
