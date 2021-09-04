@@ -84,4 +84,34 @@ def isPalindrome(str):
         else:
             print("No")    
 
-            
+# Method using recursion
+
+def isPalindome(string):
+
+    #to change it the string is similar case
+    s = s.lower()
+    # length of s
+    l = len(s)
+
+    # if length is less than 2
+    if l < 2:
+        return True
+
+    # If s[0] and s[l - 1]:
+    elif s[0] == s[1 - 1]:
+
+        # Call is pallindrome form substring(1,1-1)
+        return isPalindrome(s[1: 1 - 1])
+
+        else:
+            return False
+
+    # Driver Code 
+    string = "Loopydooply"
+    xyz = isPalindrome(s)
+
+    if xyz:
+        print("Yes")
+
+        else:
+            print("No")            
