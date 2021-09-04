@@ -47,3 +47,18 @@ while count < nterms:
     n1 = n2
     n2 = nth
     count += 1
+
+
+#{}{}{}{}{}{}
+
+# python Palindrome(s): okay, s[] must mean its an array? Looking this up now
+    return s == s[::-1]
+
+# Driver Code
+s = "malayalam"
+ = isPalindrome(s)
+
+if ans: 
+    print("yes")
+else: 
+    print("no")
