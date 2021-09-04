@@ -135,3 +135,15 @@ def isPalindome(string):
             print_lyrics() 
             x = x + 2
             print(x) 
+
+
+            # Cool Lang Greet App
+            def greet(lang):
+                if lang == 'es':
+                    print('Hola')
+                elif lang == 'fr':
+                    print('Bonjour')
+                elif lang == 'Sook':
+                    print('hoough')    
+                else:
+                    print('Hello')    
