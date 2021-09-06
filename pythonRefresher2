@@ -1,0 +1,13 @@
+// Refreshing python from FreeCodeCamp
+
+
+// python is simple! 
+
+x = 6
+print(x)
+
+
+// Sequence 
+x = 43
+x = x + 1
+print(x)
