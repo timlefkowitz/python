@@ -1,1 +1,7 @@
 // Refreshing python from FreeCodeCamp
+
+
+// python is simple! 
+
+x = 6
+print(x)
