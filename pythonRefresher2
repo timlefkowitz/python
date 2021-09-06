@@ -42,5 +42,10 @@ print(bigword, bigcount)
 # variables are simple in python 
 y = 12.2
 
-# constants
+y = 120
+# now y = 120
+
+# assignment
+
+x = 3.0 * x * (1 - x)
 
