@@ -89,4 +89,9 @@ print(ival + 1)
 
 # user input 
 nam = input ('Who are you? ')
-print('welcome, nam')
+print('welcome', nam)
+
+## Converting user input 
+inp = input('Eurpoe floor?')
+usf = int(inp) + 1
+print('US floor', usf)
