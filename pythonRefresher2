@@ -37,4 +37,10 @@ for word, count in counts.items():
         bigword = word
         bigcount = count
 
-print(bigword, bigcount)        
+print(bigword, bigcount)     
+
+# variables are simple in python 
+y = 12.2
+
+# constants
+
