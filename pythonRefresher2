@@ -54,3 +54,14 @@ x = 3.0 * x * (1 - x)
 jj = 23
 kk = jj%5
 print(kk)
+
+width = 15
+height = 12.0
+print(height/3)
+
+# Operator Precedence Rules Parentheses are always respected, Exponentiation (raise to a power)
+# muliplication, division and remainder, addition and subtraction
+#  left to right
+
+x = 1 + 2 ** 3 /4 * 5
+print(x)
