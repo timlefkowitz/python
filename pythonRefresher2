@@ -80,3 +80,13 @@ float(99) + x
 print(10 /2)
 #5.0
 
+#String Conversions only work with strings that are only numbers
+sval = '123'
+type(sval)
+ival = int(sval)
+type(ival)
+print(ival + 1)
+
+# user input 
+nam = input ('Who are you? ')
+print('welcome, nam')
