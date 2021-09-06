@@ -71,3 +71,6 @@ eee = 'hello' + 'there'
 type(eee)
 type(x)
 type(y)
+
+# float
+float(99) + x
