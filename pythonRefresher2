@@ -66,5 +66,8 @@ print(height/3)
 x = 1 + 2 ** 3 /4 * 5
 print(x)
 
-# simple concat 
+# simple concat and pythons type function
 eee = 'hello' + 'there'
+type(eee)
+type(x)
+type(y)
