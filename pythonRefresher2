@@ -227,3 +227,8 @@ thing()
 # Max function
 big = max('Hello World')
 print(big)
+
+
+# Min function
+tiny = min('Hello world')
+print(tiny)
