@@ -214,4 +214,12 @@ except:
 if ival > 0 :
     print('Nice work')
 else:
-    print('not a number')        
+    print('not a number')    
+
+# Stored (and reused) Steps
+def thing():
+    print('Hello')
+    print('Fun')
+
+thing() 
+           
