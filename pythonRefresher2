@@ -232,3 +232,10 @@ print(big)
 # Min function
 tiny = min('Hello world')
 print(tiny)
+
+# type Conversions 
+print float(99) / 100
+i = 42
+type(i)
+f = float(i)
+print(f)
