@@ -95,3 +95,12 @@ print('welcome', nam)
 inp = input('Eurpoe floor?')
 usf = int(inp) + 1
 print('US floor', usf)
+
+#Conditional Steps
+x = 5
+if x < 10:
+    print('Smaller')
+if x > 20:
+    print('Bigger')
+
+ print('Finis')       
