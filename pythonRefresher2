@@ -177,3 +177,18 @@ print(cel)
 
 #Which line/lines should be surrounded by try block? 3,4
 
+# try
+astr = 'Hello Bob'
+try:
+    istr = int(astr)
+except:
+    istr = -1
+
+print('First', istr)
+
+astr = '123'
+try:
+    istr = int(astr)
+except:
+    istr = -1
+print('Second', istr)        
