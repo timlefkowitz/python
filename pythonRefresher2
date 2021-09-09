@@ -222,4 +222,8 @@ def thing():
     print('Fun')
 
 thing() 
-           
+
+
+# Max function
+big = max('Hello World')
+print(big)
