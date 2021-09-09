@@ -192,3 +192,15 @@ try:
 except:
     istr = -1
 print('Second', istr)        
+
+# be careful to not put to much in the try 
+
+astr = 'bob'
+try:
+    print('hello')
+    istr = int(astr)
+    print('There')
+except:
+    istr = -1 
+print('Done', istr)
+    
