@@ -177,7 +177,7 @@ print(cel)
 
 #Which line/lines should be surrounded by try block? 3,4
 
-# try
+# try. if the try doesn't work it will run the except
 astr = 'Hello Bob'
 try:
     istr = int(astr)
