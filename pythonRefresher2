@@ -157,3 +157,12 @@ if x > 1 :
  else :
      print('Smaller')
  print 'Add done'    
+
+ # multi-way
+ if x < 2 :
+     print('small')
+ elif x < 10 :
+     print('Medium')
+ else :
+     print('Large')
+ print('All done')            
